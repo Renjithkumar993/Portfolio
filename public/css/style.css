@@ -268,3 +268,19 @@ body, html {
       margin-top: 10px;
       }
       
+
+      ::-webkit-scrollbar {
+        width: 5px;
+        border:#e3e9e8 ;
+        border-style: dotted;
+      }
+      
+      ::-webkit-scrollbar-track {
+        border-radius: 0;
+        background: #070707;
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        border-radius: 0;
+        background: hsl(180, 2%, 90%)
+      }
