@@ -11,6 +11,9 @@ body, html {
   background-attachment: fixed;
 }
 
+pre{
+  font-family: 'ITC Avant Garde Pro Md', sans-serif;
+}
 
 .hero {
     height: 100%;
@@ -284,3 +287,4 @@ body, html {
         border-radius: 0;
         background: hsl(180, 2%, 90%)
       }
+      
